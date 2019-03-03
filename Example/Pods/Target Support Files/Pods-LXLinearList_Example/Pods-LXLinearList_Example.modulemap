@@ -1,0 +1,6 @@
+framework module Pods_LXLinearList_Example {
+  umbrella header "Pods-LXLinearList_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}

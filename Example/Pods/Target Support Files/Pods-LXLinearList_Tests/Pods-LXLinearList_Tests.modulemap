@@ -1,0 +1,6 @@
+framework module Pods_LXLinearList_Tests {
+  umbrella header "Pods-LXLinearList_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}

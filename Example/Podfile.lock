@@ -1,0 +1,16 @@
+PODS:
+  - LXLinearList (0.0.1)
+
+DEPENDENCIES:
+  - LXLinearList (from `../`)
+
+EXTERNAL SOURCES:
+  LXLinearList:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  LXLinearList: ef5c59428675f01cfa30ca695b91a695810afa96
+
+PODFILE CHECKSUM: 817b568d209c6eacc130cefd3b31156c2b381a8b
+
+COCOAPODS: 1.5.2

@@ -22,7 +22,7 @@ pod 'LXLinearList'
 
 ## Author
 
-GreenDayLX, lixinweng@jieyuechina.com
+GreenDayLX, 284995375@qq.com
 
 ## License
 
